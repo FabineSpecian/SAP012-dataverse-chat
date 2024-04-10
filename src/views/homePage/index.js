@@ -47,9 +47,15 @@ const homePage = () => {
     const orderValue = e.target.value;
 
     if (orderValue === "asc") {
+      const count = computeStats(data, filterBy, value);
+      const statsMessage = renderStatsMessage(count);
+      cardBody.appendChild(statsMessage);
       cardData = sortData(cardData, "salario", "asc");
     }
     else if (orderValue === "desc") {
+      const count = computeStats(data, filterBy, value);
+      const statsMessage = renderStatsMessage(count);
+      cardBody.appendChild(statsMessage);
       cardData = sortData(cardData, "salario", "desc");
     }
 
