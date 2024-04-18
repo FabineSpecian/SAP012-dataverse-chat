@@ -7,9 +7,7 @@
 * [3. Funcionalidades](#3-funcionalidades)
 * [4. Boilerplate](#4-Boilerplate)
 * [5. Tarefas](#5-tarefas)
-* [6. Testes](#6-testes)
-* [7. Objetivos de Aprendizagem](#7-objetivos-de-aprendizagem)
-* [8. Considerações Finais](#8-considerações-finais)
+* [6. Considerações Finais](#6-considerações-finais)
 
 
 ***
@@ -48,9 +46,9 @@ de um sistema de chat impulsionado pela [API da OpenAI](https://openai.com/produ
 
 + GitHub
 
-+ Trello: [DataverseChat](https://trello.com/b/h0sqGTYj/dataverse)
++ Trello: [DataverseChat](https://trello.com/b/i1p8ocwU/dataverse-chat)
 
-+ Notion: [DataverseChat](https://brawny-coyote-859.notion.site/DATAVERSE-288dc371330d4347a2cdaecd93702fc2)
++ Notion: [DataverseChat](https://www.notion.so/DATAVERSE-CHAT-9d7915e8094944b983d5452b22d036be)
 
 ### Linguagens
 
@@ -100,15 +98,9 @@ Aqui estão definidas com mais detalhes as funcionalidades que foram implementad
 
 * Utilizando a API da Open AI, a aplicação permite que o usuário interaja
   com um personagem através de um chat.
-  Por exemplo um usuário pode estabelecer uma conversa interativa
-  com [Gabriela Silva - Analista de Business Intelligence (BI)](https://pt.LEVAR AO CHAT COM GABRIELA OU GIF) através do
-  sistema de chat, obtendo informações sobre suas realizações,
-  desafios e contribuições dentro da sua carreira. A inteligência artificial da OpenAI
-  permite que as respostas sejam informativas e personalizadas de acordo com as
-  perguntas dos usuários.
+  Por exemplo um usuário pode estabelecer uma conversa interativa através do sistema de chat, obtendo informações sobre suas realizações, desafios e contribuições dentro da sua carreira. A inteligência artificial da OpenAI permite que as respostas sejam informativas e personalizadas de acordo com as perguntas dos usuários.
 
-* A aplicação informa à usuária sobre os erros que possam surgir ao
-  interagir com a API, bem como a não existência da página.
+* A aplicação informa à usuária sobre os erros que possam surgir ao  interagir com a API, bem como a não existência da página.
 
 ## 4. Boilerplate
 
@@ -137,15 +129,8 @@ O _boilerplate_ continha a seguinte estrutura:
 
 ```
 
-ARRUMAR AQUI OS SCRIPTS
-
 
 ### 5. Tarefas
-
-### Definição do produto
-
-
-ARRUMAR AQUIIIII
 
 
 ### Histórias da usuária
@@ -197,16 +182,6 @@ História da usuária se estrutura com elementos Eu | Quero | Para.
 **Para** que minha navegação durante o uso da aplicação seja simples e ágil.
 
 
-### Critérios de aceitação e Definições de pronto
-
-ARRUMAR AQUIIIIIII
-
-
-### Conexão com API
-
-
-### Design de Interface de Usuário
-
 #### Protótipo de alta fidelidade
 
 Modelo para desktop:
@@ -240,31 +215,13 @@ Modelo para mobile:
 <img src="/src/assets/readMeImg/errorPageMobile.png" style="display: block; margin: 0 auto;">
 
 
-## 6. Testes
+## 6. Considerações finais
 
+A condução do projeto proporcionou uma rica oportunidade para desenvolver uma ampla gama de habilidades e competências essenciais. Foi uma jornada de aprimoramento que expandiu nosso domínio em linguagens, ferramentas e tecnologias, destacando-se a integração e interação bem-sucedida da aplicação com a OpenAI. Essa colaboração acrescentou uma dimensão de inteligência e adaptabilidade ao nosso produto final.
 
-ARRRUMAR AQUIIIIIIIII
+Além disso, aspectos fundamentais como organização, planejamento estratégico e eficiente gestão de tempo foram refinados ao longo do processo. O trabalho em equipe eficaz e uma comunicação clara foram pilares essenciais para alcançar nossos objetivos. A necessidade constante de aprender e se adaptar impulsionou uma cultura de autoaprendizagem, garantindo que permanecêssemos atualizados e ágeis diante das demandas em constante evolução.
 
-## 7. Objetivos de Aprendizagem
-
-### Gerais
-
-* Desenvolver uma [Single Page Application (SPA)](https://pt.wikipedia.org/wiki/Aplicativo_de_p%C3%A1gina_%C3%BAnica)
-* Aplicar os conceitos de responsividade no desenvolvimento das telas
-* Implementar um router para a navegação entre as diferentes visualizações/telas
-  da aplicação
-* Integrar uma API externa
-* Compreender a assincronia em JavaScript
-* Criar um conjunto de testes unitários que permitam testar código assíncrono
-
-### 
-ARRUMAR AQUIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
-
-
-## 8. Considerações finais
-
-A execução do projeto proporcionou a oportunidade de desenvolver muitas habilidades, técnicas e lifeskills. O conhecimento de linguagens, ferramentes e tecnologias, como também organização, planejamento, gestão de tempo, trabalho em equipe, comunicação e autoaprendizagem. Superar os desafios de um projeto trouxe satisfação e autoconfiança.
-
+A superação dos desafios complexos inerentes ao projeto não só trouxe uma sensação gratificante de realização pessoal, mas também fortaleceu nossa confiança coletiva em enfrentar tarefas interdisciplinares de maneira proativa e eficaz. Este projeto não apenas representou uma conquista técnica, mas também uma valiosa oportunidade de crescimento e desenvolvimento individual e em equipe.
 
 
 ## Desenvolvedoras
