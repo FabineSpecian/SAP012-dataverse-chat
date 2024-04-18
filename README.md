@@ -217,7 +217,7 @@ A condução do projeto proporcionou uma rica oportunidade para desenvolver uma 
 
 Além disso, aspectos fundamentais como organização, planejamento estratégico e eficiente gestão de tempo foram refinados ao longo do processo. O trabalho em equipe eficaz e uma comunicação clara foram pilares essenciais para alcançar nossos objetivos. A necessidade constante de aprender e se adaptar impulsionou uma cultura de autoaprendizagem, garantindo que permanecêssemos atualizados e ágeis diante das demandas em constante evolução.
 
-A superação dos desafios complexos inerentes ao projeto não só trouxe uma sensação gratificante de realização pessoal, mas também fortaleceu nossa confiança coletiva em enfrentar tarefas interdisciplinares de maneira proativa e eficaz. Este projeto não apenas representou uma conquista técnica, mas também uma valiosa oportunidade de crescimento e desenvolvimento individual e em equipe.
+A superação dos desafios complexos inerentes ao projeto não só trouxe uma sensação gratificante de realização pessoal, mas também fortaleceu nossa confiança coletiva em enfrentar tarefas interdisciplinares de maneira proativa e eficaz. Este projeto não apenas representou uma conquista técnica, mas também uma valiosa oportunidade de desenvolvimento individual e em equipe.
 
 
 ## Desenvolvedoras
