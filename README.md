@@ -12,10 +12,6 @@
 
 ***
 
-
-
-![Visualização do aplicativo](https://github-production-user-asset-6210df.s3.amazonaws.com/123121338/271433237-2bd1477b-15ef-49d4-9fcb-226b3263c46a.png)
-
 ## 1. Resumo do projeto
 
 Neste projeto, foi transformada a aplicação desenvolvida no Dataverse
